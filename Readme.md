@@ -6,4 +6,4 @@ Utility to generate random boards for Settlers of Catan
 Usage
 -----
 * Run Generator.rb
-* The generated board is in the _index.html_ file
+* The generated board is in the output directory.
