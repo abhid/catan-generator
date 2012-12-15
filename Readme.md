@@ -1,4 +1,9 @@
-=== Settlers of Catan Random Board Generator
+Settlers of Catan Random Board Generator
+========================================
 
-== Run Generator.rb to generate a random board
-== A random board (index.html) is generated in the root folder.
+Utility to generate random boards for Settlers of Catan
+
+Usage
+-----
+* Run Generator.rb
+* The generated board is in the _index.html_ file
